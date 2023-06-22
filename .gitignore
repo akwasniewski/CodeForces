@@ -1,0 +1,10 @@
+*
+!/**/
+!*.*
+*.in
+*.out
+test.*
+temp.*
+gen.*
+main.*
+in.in
