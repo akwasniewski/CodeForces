@@ -1,3 +1,4 @@
+//k-th equality
 #include <iostream>
 using namespace std;
 int decpower(int digits){

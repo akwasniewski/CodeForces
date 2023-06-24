@@ -1,4 +1,4 @@
-//ski resort
+//Ski Resort
 #include <iostream>
 using namespace std;
 int main(){
