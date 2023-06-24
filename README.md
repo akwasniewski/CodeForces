@@ -2,6 +2,10 @@
 
 This repository contains results of my struggles with [codeforces](https://codeforces.com/) -> my solutions to various  problems implemented in C++. Each problem solution is written in a separate file, organized by the problem code and round number. On top of each file I included problem name and link to the problemn page
 
+## Disclaimer
+
+I'm still new into competitive programming, but after first year of theoretical computer science at uni I decided to give it a go. Keep in mind those might not be the most optimal solutions, and there may be some errors or bad practices, even though I try my best to refine the code.
+
 ## How to Use
 
 You can browse through the repository to find solutions for specific Codeforces problems. Each solution is contained in a separate C++ file, named after the problem code.
