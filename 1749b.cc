@@ -1,4 +1,5 @@
 //Death's Blesssing
+//https://codeforces.com/contest/1749/problem/B
 #include <iostream>
 #include <list>
 #include <functional>

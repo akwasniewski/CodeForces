@@ -1,4 +1,5 @@
 //Ski Resort
+//https://codeforces.com/contest/1840/problem/C
 #include <iostream>
 using namespace std;
 int main(){

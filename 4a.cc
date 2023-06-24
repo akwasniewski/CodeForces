@@ -1,5 +1,8 @@
-//just learning to use the platform
 //watermelon
+//https://codeforces.com/contest/4/problem/A
+
+//just learning to use the platform hah
+
 #include <iostream>
 using namespace std;
 int main(){

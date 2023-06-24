@@ -1,4 +1,5 @@
 //Musical Puzzle
+//https://codeforces.com/contest/1833/problem/A
 #include <iostream>
 using namespace std;
 int main(){

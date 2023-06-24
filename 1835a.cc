@@ -1,4 +1,5 @@
 //k-th equality
+//https://codeforces.com/contest/1835/problem/A
 #include <iostream>
 using namespace std;
 int decpower(int digits){
