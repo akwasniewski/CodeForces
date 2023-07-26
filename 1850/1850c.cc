@@ -1,3 +1,5 @@
+//Word on the paper
+//https://codeforces.com/problemset/problem/1850/C
 #include <iostream>
 using namespace std;
 int main(){

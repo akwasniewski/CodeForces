@@ -1,4 +1,7 @@
-#include <bits/stdc++.h>
+//Balanced round
+//https://codeforces.com/problemset/problem/1850/D
+#include <algorithm>
+#include <iostream>
 using namespace std;
 int main(){
     ios_base::sync_with_stdio(false);

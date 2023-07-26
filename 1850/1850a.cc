@@ -1,3 +1,5 @@
+//To My Critics
+//https://codeforces.com/problemset/problem/1850/A
 #include <iostream>
 using namespace std;
 int main(){
