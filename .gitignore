@@ -9,3 +9,4 @@ gen.*
 main.*
 in.in
 .vscode
+.zed
