@@ -1,4 +1,4 @@
-////Ntarsis' Set
+// Ntarsis' Set
 // https://codeforces.com/problemset/problem/1852/A
 #include <algorithm>
 #include <iostream>
